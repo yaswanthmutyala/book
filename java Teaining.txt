@@ -1,0 +1,21 @@
+S.No	Day	Topics Covered	Video Link	
+1	Day 1	Introduction to Java, Setting up environment, JDK, JRE, JVM, Memory Management, Printing statements  	                           https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/EarJ079Rf9dPhTKfAb3v_KAB1yQUdbuyJLwpaje4esw5rQ?e=5PcchJ	
+2	Day 2	Garbage Colleciton, Class and Object, lang package, Keywords, Datatypes, Wrapper class, Ways to Read inputs  	                   https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/EQ72UZu4AI9IvjufaXBc8_QBjdcmFHDtlbWs6hNU3udgGQ	
+	Day 3	Control Statements- conditional, branching, looping, Array, , enhanced for loop, forEach	                                   https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/EY78vy6c18pBkITZgIbMm28BwSdsKjQ5spWf4DWZ_T11OA	
+	Day 4	Constructor, Encapsulation, this keyword , Abstraction										   https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/EfMN5ESqWLNLjXLdFA1AH8gBt_GHzjls86HKIZWyTz3RrQ	
+	Day 5	Inheritance, Abstraction, Interface, Polymorphism, super, static, final keywords  						   https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/EZ8xRgTH56VJkotNhzMNIZgBsEnvwtivFetPfUQjyFtjBA	
+	Day 6	String handling ,Packages, varargs												   https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/ETFivyTYxilAoqaT7RQxEXMBw58TWYAaFCPjinHNmkX_Tw	
+	Day 7	Static keyword, final keyword, ineer classes, exceptions: checked, unchecked, try catch, try with nested try catch,
+                try with multiple catches, throws keyword, finally	                                                                           https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/ESdXmPXqPX5Ig36Pdc6mqxcBvNod2rHdo5JKp5iiVU369g	
+	Day 8	Throw keyword, User defined exceptions, Date API, Calendar API, SimpleDateFormat API, LOdalDateTime API,
+                ZoneDateTime, ZoneId API, DateTimeFormatter	                                                                                   https://people.ey.com/:v:/g/personal/vaishali_kalra1_gds_ey_com/EeuHM7wRpQNKtloNWS3z1fUBCGMX1sXuvgIZ-R-hlUvCYg	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
